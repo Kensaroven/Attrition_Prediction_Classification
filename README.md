@@ -28,6 +28,7 @@ Dependent Variable was:
 Experimented with 
 - Variable Selection techniques
 - Logistic Regression
+
 ![alt text](https://github.com/Kensaroven/Attrition_Prediction_Classification/blob/main/Logistic%20CF.png?raw=true)
 
 - Decision Trees
