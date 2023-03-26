@@ -23,3 +23,21 @@ Independent Variables were:
 
 Dependent Variable was:
 - Attrition: Employee attrition status(0 or 1)
+
+##### **Techniques used in Classification**
+Experimented with 
+- Variable Selection techniques
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- K Nearest Neighbours
+- K-Means Clustering 
+along with grid tuning to understand hyper parameters
+
+##### **Techniques used in Ensemble Methodologies**
+- Voting Classifier
+- Averaging
+- Weighted Average
+- Bagging
+- Boosting
+
