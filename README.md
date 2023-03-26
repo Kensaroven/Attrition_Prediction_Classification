@@ -57,7 +57,7 @@ along with grid tuning to understand hyper parameters
 - Boosting
 
 
-Evaluation metrics
+## Evaluation metrics
 
 
 | Method | AUC | Precision | Recall | F1Score | Accuracy |
@@ -67,6 +67,6 @@ Evaluation metrics
 | Random Forest  | 0.664 | 0.5 | 0.076 | 0.133 | 0.867 |
 | KNN  | 0.620 | 0.444 | 0.205 | 0.280 | 0.860 |
 
-KNMeans  - Silhouette Score (2 clusters) = 0.7079
+KMeans  - Silhouette Score (2 clusters) = 0.7079
 
 
