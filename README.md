@@ -33,19 +33,19 @@ Experimented with
 
 - Decision Trees
 
-![alt text](https://github.com/Kensaroven/Attrition_Prediction_Classification/blob/main/Logistic%20CF.png?raw=true)
+![alt text](https://github.com/Kensaroven/Attrition_Prediction_Classification/blob/main/Decision%20Tree%20CF.png?raw=true)
 
 - Random Forest
 
-![alt text](https://github.com/Kensaroven/Attrition_Prediction_Classification/blob/main/Logistic%20CF.png?raw=true)
+![alt text](https://github.com/Kensaroven/Attrition_Prediction_Classification/blob/main/Random%20Forest%20CF.png?raw=true)
 
 - K Nearest Neighbours
 
-![alt text](https://github.com/Kensaroven/Attrition_Prediction_Classification/blob/main/Logistic%20CF.png?raw=true)
+![alt text](https://github.com/Kensaroven/Attrition_Prediction_Classification/blob/main/KNN%20CF.png?raw=true)
 
 - K-Means Clustering
 
-![alt text](https://github.com/Kensaroven/Attrition_Prediction_Classification/blob/main/Logistic%20CF.png?raw=true)
+![alt text](https://github.com/Kensaroven/Attrition_Prediction_Classification/blob/main/KMeans%20CF.png?raw=true)
 
 along with grid tuning to understand hyper parameters
 
