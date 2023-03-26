@@ -28,6 +28,8 @@ Dependent Variable was:
 Experimented with 
 - Variable Selection techniques
 - Logistic Regression
+![alt text](https://github.com/Kensaroven/Attrition_Prediction_Classification/blob/main/Logistic%20CF.png?raw=true)
+
 - Decision Trees
 - Random Forest
 - K Nearest Neighbours
@@ -41,4 +43,3 @@ along with grid tuning to understand hyper parameters
 - Bagging
 - Boosting
 
-![alt text](https://github.com/Kensaroven/CO2_Emission_Prediciton/blob/main/Screenshot%202023-03-26%20at%203.58.13%20PM.png?raw=true)
