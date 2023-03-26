@@ -56,3 +56,17 @@ along with grid tuning to understand hyper parameters
 - Bagging
 - Boosting
 
+
+Evaluation metrics
+
+
+| Method | AUC | Precision | Recall | F1Score | Accuracy |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Logistic Regression  | 0.717 | 0.221 | 0.641 | 0.328 | 0.653 |
+| Decision Trees  | 0.584 | 0.221 | 0.641 | 0.328 | 0.653 |
+| Random Forest  | 0.664 | 0.5 | 0.076 | 0.133 | 0.867 |
+| KNN  | 0.620 | 0.444 | 0.205 | 0.280 | 0.860 |
+
+KNMeans  - Silhouette Score (2 clusters) = 0.7079
+
+
